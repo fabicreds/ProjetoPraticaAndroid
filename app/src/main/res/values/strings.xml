@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ProjetoPraticaAndroid</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="username">Usuário:</string>
+    <string name="password">Senha:</string>
+    <string name="login">Login</string>
+    <string name="keep_connected">Manter Conectado</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+
+    <string-array name="lista_materias">
+        <item>Sistemas de Informação I</item>
+        <item>Sistemas de Informação II</item>
+        <item>Banco de Dados I</item>
+        <item>Banco de Dados II</item>
+        <item>Engenharia de Software</item>
+    </string-array>
+
+    <string-array name="lista_horarios_matutino">
+        <item>Matutino</item>
+    </string-array>
+
+    <string-array name="lista_horarios_vespertino">
+        <item>Vespertino</item>
+    </string-array>
+
+    <string-array name="lista_horarios_noturno">
+        <item>19:20 - 20:50</item>
+        <item>21:05 - 22:35</item>
+    </string-array>
+    <string name="sair">Sair</string>
+    <string name="fechar">Fechar</string>
+</resources>
